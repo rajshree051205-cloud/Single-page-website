@@ -3,6 +3,8 @@ This is a responsive single-page website built using HTML, CSS, and Bootstrap. T
 
 The website is designed with a clean UI layout and structured sections to simulate a real company website. Bootstrap is used for responsiveness and grid alignment, while custom CSS enhances styling and visual appearance.
 
+The live version of this project is available here : [ https://rajshree051205-cloud.github.io/Single-page-website/ ]
+
 ✨ Features
 Fully responsive single-page layout
 Modern navigation bar with menu links
