@@ -1,4 +1,5 @@
 🌐 1Stop Landing Page Website
+
 This is a responsive single-page website built using HTML, CSS, and Bootstrap. The project represents a modern business-style landing page with multiple sections including About, Features, Team, and Contact.
 
 The website is designed with a clean UI layout and structured sections to simulate a real company website. Bootstrap is used for responsiveness and grid alignment, while custom CSS enhances styling and visual appearance.
@@ -6,6 +7,7 @@ The website is designed with a clean UI layout and structured sections to simula
 The live version of this project is available here : [ https://rajshree051205-cloud.github.io/Single-page-website/ ]
 
 ✨ Features
+
 Fully responsive single-page layout
 Modern navigation bar with menu links
 Hero/banner section with carousel style design
@@ -17,14 +19,17 @@ Footer with quick links and company info
 Mobile-friendly responsive design
 
 🛠️ Technologies Used
+
 HTML5
 CSS3
 Bootstrap 5
 
 🎯 Project Purpose
+
 This project was created as a frontend development practice to understand real-world website structure using Bootstrap. It demonstrates layout design, responsiveness, and UI sectioning similar to a real company landing page.
 
 📌 What I Learned
+
 Bootstrap grid system
 Responsive layout design
 Section-based website structure
@@ -33,6 +38,7 @@ Card-based UI for team section
 Navigation linking in single-page websites
 
 🚀 Future Improvements
+
 Add animations and smooth scrolling
 Improve UI consistency and spacing
 Add JavaScript form validation
